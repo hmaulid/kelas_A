@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Bandung
 Jakarta
+=======
+Spiderman
+Start Wars
+>>>>>>> favour
